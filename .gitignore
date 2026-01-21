@@ -1,6 +1,9 @@
 # Folders
 PDBbind/
 
+# Conda environment (DO NOT COMMIT)
+ml_env/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
